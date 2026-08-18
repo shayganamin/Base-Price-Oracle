@@ -3,3 +3,4 @@ A lightweight on-chain price oracle for the Base network, providing decentralize
 chore: initialize oracle project
 feat: add oracle contract
 feat: implement price feed
+feat: add asset price mapping
