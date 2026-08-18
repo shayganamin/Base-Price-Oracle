@@ -4,3 +4,4 @@ chore: initialize oracle project
 feat: add oracle contract
 feat: implement price feed
 feat: add asset price mapping
+feat: validate price updates
