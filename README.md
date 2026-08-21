@@ -8,3 +8,4 @@ feat: validate price updates
 feat: add stale price protection
 fix: handle invalid feed data
 refactor: simplify oracle logic
+test: add oracle unit tests
